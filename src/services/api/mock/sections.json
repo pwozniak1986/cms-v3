@@ -1,0 +1,72 @@
+[
+    {
+      "id": 1,
+      "name": "AFL History Time Line",
+      "screens":[
+        {"id":1, "name":"Idle state"},
+        {"id":2, "name":"Main menu"},
+        {"id":3, "name":"Video loop"},
+        {"id":4, "name":"Directory"}
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Every Game",
+      "screens":[
+        {"id":1, "name":"Idle state"},
+        {"id":2, "name":"Main menu"},
+        {"id":3, "name":"Video loop"},
+        {"id":4, "name":"Directory"}
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Every Player",
+      "screens":[
+        {"id":1, "name":"Idle state"},
+        {"id":2, "name":"Main menu"},
+        {"id":3, "name":"Video loop"},
+        {"id":4, "name":"Directory"}
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Hall of Honor",
+      "screens":[
+        {"id":1, "name":"Idle state"},
+        {"id":2, "name":"Main menu"},
+        {"id":3, "name":"Video loop"},
+        {"id":4, "name":"Directory"}
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Highlights from the Past",
+      "screens":[
+        {"id":1, "name":"Idle state"},
+        {"id":2, "name":"Main menu"},
+        {"id":3, "name":"Video loop"},
+        {"id":4, "name":"Directory"}
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Hunt Tribute",
+      "screens":[
+        {"id":1, "name":"Idle state"},
+        {"id":2, "name":"Main menu"},
+        {"id":3, "name":"Video loop"},
+        {"id":4, "name":"Directory"}
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Icons of the Chiefs",
+      "screens":[
+        {"id":1, "name":"Idle state"},
+        {"id":2, "name":"Main menu"},
+        {"id":3, "name":"Video loop"},
+        {"id":4, "name":"Directory"}
+      ]
+    }
+  ]

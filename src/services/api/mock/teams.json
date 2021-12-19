@@ -1,0 +1,422 @@
+[
+    {
+        "id": "36",
+        "city": "Arizona",
+        "logo": "images/teamlogos/1  - Arizona Cardinals.png",
+        "name": "Cardinals",
+        "teamHelmets": "helmets/by_team/ArizonaCardinals",
+        "abbreviation": "ARI",
+        "primaryColour": "#97233F",
+        "secondaryColour": "#FFB612"
+    },
+    {
+        "id": "27",
+        "city": "Atlanta",
+        "logo": "images/teamlogos/2 - Atlanta Falcons.png",
+        "name": "Falcons",
+        "teamHelmets": "helmets/by_team/AtlantaFalcons",
+        "abbreviation": "ATL",
+        "primaryColour": "#a71930",
+        "secondaryColour": "#000"
+    },
+    {
+        "id": "17",
+        "city": "Baltimore",
+        "logo": "images/teamlogos/_0009_baltimore_colts.png",
+        "name": "Colts",
+        "teamHelmets": "helmets/by_team/BaltimoreColts",
+        "abbreviation": "BAL",
+        "primaryColour": "",
+        "secondaryColour": ""
+    },
+    {
+        "id": "40",
+        "city": "Baltimore",
+        "logo": "images/teamlogos/3 - Baltimore Ravens.png",
+        "name": "Ravens",
+        "teamHelmets": "helmets/by_team/BaltimoreRavens",
+        "abbreviation": "BAL",
+        "primaryColour": "#241773",
+        "secondaryColour": "#000"
+    },
+    {
+        "id": "11",
+        "city": "Boston",
+        "logo": "images/teamlogos/_0008_boston_patriots.png",
+        "name": "Patriots",
+        "teamHelmets": "helmets/by_team/BostonPatriots",
+        "abbreviation": "BOS",
+        "primaryColour": "",
+        "secondaryColour": ""
+    },
+    {
+        "id": "6",
+        "city": "Buffalo",
+        "logo": "images/teamlogos/4 - Buffalo Bills.png",
+        "name": "Bills",
+        "teamHelmets": "helmets/by_team/BuffaloBills",
+        "abbreviation": "BUF",
+        "primaryColour": "#00338D",
+        "secondaryColour": "#C60C30"
+    },
+    {
+        "id": "37",
+        "city": "Carolina",
+        "logo": "images/teamlogos/6 - Carolina Panthers.png",
+        "name": "Panthers",
+        "teamHelmets": "helmets/by_team/CarolinaPanthers",
+        "abbreviation": "CAR",
+        "primaryColour": "#0085CA",
+        "secondaryColour": "#101820"
+    },
+    {
+        "id": "30",
+        "city": "Chicago",
+        "logo": "images/teamlogos/7 - Chicago Bears.png",
+        "name": "Bears",
+        "teamHelmets": "helmets/by_team/ChicagoBears",
+        "abbreviation": "CHI",
+        "primaryColour": "#0B162A",
+        "secondaryColour": "#c83803"
+    },
+    {
+        "id": "15",
+        "city": "Cincinnati",
+        "logo": "images/teamlogos/5 - Cincinnati Bengals.png",
+        "name": "Bengals",
+        "teamHelmets": "helmets/by_team/CincinnatiBengals",
+        "abbreviation": "CIN",
+        "primaryColour": "#fb4f14",
+        "secondaryColour": "#000000"
+    },
+    {
+        "id": "22",
+        "city": "Cleveland",
+        "logo": "images/teamlogos/8 - Cleveland Browns.png",
+        "name": "Browns",
+        "teamHelmets": "helmets/by_team/ClevelandBrowns",
+        "abbreviation": "CLE",
+        "primaryColour": "#311D00",
+        "secondaryColour": "#ff3c00"
+    },
+    {
+        "id": "5",
+        "city": "Dallas",
+        "logo": "images/teamlogos/0007_dallas_texans.png",
+        "name": "Texans",
+        "teamHelmets": "helmets/by_team/DallasTexans",
+        "abbreviation": "DAL",
+        "primaryColour": "",
+        "secondaryColour": ""
+    },
+    {
+        "id": "18",
+        "city": "Dallas",
+        "logo": "images/teamlogos/16 - Dallas Cowboys.png",
+        "name": "Cowboys",
+        "teamHelmets": "helmets/by_team/DallasCowboys",
+        "abbreviation": "DAL",
+        "primaryColour": "#041E42",
+        "secondaryColour": "#869397"
+    },
+    {
+        "id": "10",
+        "city": "Denver",
+        "logo": "images/teamlogos/14 - Denver Broncos.png",
+        "name": "Broncos",
+        "teamHelmets": "helmets/by_team/DenverBroncos",
+        "abbreviation": "DEN",
+        "primaryColour": "#FB4F14",
+        "secondaryColour": "#002244"
+    },
+    {
+        "id": "23",
+        "city": "Detroit",
+        "logo": "images/teamlogos/15 - Detroit Lions.png",
+        "name": "Lions",
+        "teamHelmets": "helmets/by_team/DetroitLions",
+        "abbreviation": "DET",
+        "primaryColour": "#0076b6",
+        "secondaryColour": "#B0B7BC"
+    },
+    {
+        "id": "14",
+        "city": "Green Bay",
+        "logo": "images/teamlogos/12 - Green Bay Packers.png",
+        "name": "Packers",
+        "teamHelmets": "helmets/by_team/GreenBayPackers",
+        "abbreviation": "GB",
+        "primaryColour": "#203731",
+        "secondaryColour": "#FFB612"
+    },
+    {
+        "id": "4",
+        "city": "Houston",
+        "logo": "images/teamlogos/_0006_houston_oilers.png",
+        "name": "Oilers",
+        "teamHelmets": "helmets/by_team/HoustonOilers",
+        "abbreviation": "HOU",
+        "primaryColour": "",
+        "secondaryColour": ""
+    },
+    {
+        "id": "42",
+        "city": "Houston",
+        "logo": "images/teamlogos/13 - Houston Texans.png",
+        "name": "Texans",
+        "teamHelmets": "helmets/by_team/HoustonTexans",
+        "abbreviation": "HOU",
+        "primaryColour": "#03202f",
+        "secondaryColour": "#A71930"
+    },
+    {
+        "id": "34",
+        "city": "Indianapolis",
+        "logo": "images/teamlogos/11 - Indianapolis Colts.png",
+        "name": "Colts",
+        "teamHelmets": "helmets/by_team/IndianapolisColts",
+        "abbreviation": "IND",
+        "primaryColour": "#002C5F",
+        "secondaryColour": "#A2AAAD"
+    },
+    {
+        "id": "39",
+        "city": "Jacksonville",
+        "logo": "images/teamlogos/10 - Jacksonville Jaguars.png",
+        "name": "Jaguars",
+        "teamHelmets": "helmets/by_team/JacksonvilleJaguars",
+        "abbreviation": "JAX",
+        "primaryColour": "#006778",
+        "secondaryColour": "#9F792C"
+    },
+    {
+        "id": "1",
+        "city": "Kansas City",
+        "logo": "images/teamlogos/9 - Kansas City Chiefs.png",
+        "name": "Chiefs",
+        "teamHelmets": "helmets/by_team/KansasCityChiefs",
+        "abbreviation": "KC",
+        "primaryColour": "#E31837",
+        "secondaryColour": "#FFB81C"
+    },
+    {
+        "id": "8",
+        "city": "Los Angeles",
+        "logo": "images/teamlogos/18 - Los Angeles Chargers.png",
+        "name": "Chargers",
+        "teamHelmets": "helmets/by_team/LosAngelesChargers",
+        "abbreviation": "LA",
+        "primaryColour": "#0080C6",
+        "secondaryColour": "#FFC20E"
+    },
+    {
+        "id": "28",
+        "city": "Los Angeles",
+        "logo": "images/teamlogos/19 - Los Angeles Rams.png",
+        "name": "Rams",
+        "teamHelmets": "helmets/by_team/LosAngelesRams",
+        "abbreviation": "LAR",
+        "primaryColour": "#003594",
+        "secondaryColour": "#ffa300"
+    },
+    {
+        "id": "33",
+        "city": "Los Angeles",
+        "logo": "images/teamlogos/17 - Las Vegas Raiders.png",
+        "name": "Raiders",
+        "teamHelmets": "helmets/by_team/LosAngelesRaiders",
+        "abbreviation": "LAR",
+        "primaryColour": "",
+        "secondaryColour": ""
+    },
+    {
+        "id": "45",
+        "city": "Los Angeles",
+        "logo": "images/teamlogos/_0005_la_chargers.png",
+        "name": "Chargers",
+        "teamHelmets": "helmets/by_team/LosAngelesChargers",
+        "abbreviation": "LAC",
+        "primaryColour": "",
+        "secondaryColour": ""
+    },
+    {
+        "id": "13",
+        "city": "Miami",
+        "logo": "images/teamlogos/20 - Miami Dolphins.png",
+        "name": "Dolphins",
+        "teamHelmets": "helmets/by_team/MiamiDolphins",
+        "abbreviation": "MIA",
+        "primaryColour": "#008E97",
+        "secondaryColour": "#FC4C02"
+    },
+    {
+        "id": "16",
+        "city": "Minnesota",
+        "logo": "images/teamlogos/21 - Minnesota Vikings.png",
+        "name": "Vikings",
+        "teamHelmets": "helmets/by_team/MinnesotaVikings",
+        "abbreviation": "MIN",
+        "primaryColour": "#4F2683",
+        "secondaryColour": "#FFC62F"
+    },
+    {
+        "id": "29",
+        "city": "New England",
+        "logo": "images/teamlogos/22 - New England Patriots.png",
+        "name": "Patriots",
+        "teamHelmets": "helmets/by_team/NewEnglandPatriots",
+        "abbreviation": "NE",
+        "primaryColour": "#002244",
+        "secondaryColour": "#C60C30"
+    },
+    {
+        "id": "25",
+        "city": "New Orleans",
+        "logo": "images/teamlogos/24 - New Orleans Saints.png",
+        "name": "Saints",
+        "teamHelmets": "helmets/by_team/NewOrleansSaints",
+        "abbreviation": "NO",
+        "primaryColour": "#D3BC8D",
+        "secondaryColour": "#101820"
+    },
+    {
+        "id": "9",
+        "city": "New York",
+        "logo": "images/teamlogos/_0004_titans_newyork.png",
+        "name": "Titans",
+        "teamHelmets": "helmets/by_team/NewYorkTitans",
+        "abbreviation": "NY",
+        "primaryColour": "",
+        "secondaryColour": ""
+    },
+    {
+        "id": "12",
+        "city": "New York",
+        "logo": "images/teamlogos/23 - New York Jets.png",
+        "name": "Jets",
+        "teamHelmets": "helmets/by_team/NewYorkJets",
+        "abbreviation": "NYJ",
+        "primaryColour": "#0B2265",
+        "secondaryColour": "#a71930"
+    },
+    {
+        "id": "31",
+        "city": "New York",
+        "logo": "images/teamlogos/32 - New York Giants.png",
+        "name": "Giants",
+        "teamHelmets": "helmets/by_team/NewYorkGiants",
+        "abbreviation": "NYG",
+        "primaryColour": "#125740",
+        "secondaryColour": "#000000"
+    },
+    {
+        "id": "7",
+        "city": "Oakland",
+        "logo": "images/teamlogos/_0003_oakland_raiders.png",
+        "name": "Raiders",
+        "teamHelmets": "helmets/by_team/OaklandRaiders",
+        "abbreviation": "OAK",
+        "primaryColour": "#000000",
+        "secondaryColour": "#A5ACAF"
+    },
+    {
+        "id": "26",
+        "city": "Philadelphia",
+        "logo": "images/teamlogos/30 - Philadelphia Eagles.png",
+        "name": "Eagles",
+        "teamHelmets": "helmets/by_team/PhilidelphiaEagles",
+        "abbreviation": "PHI",
+        "primaryColour": "#004C54",
+        "secondaryColour": "#A5ACAF"
+    },
+    {
+        "id": "19",
+        "city": "Pittsburgh",
+        "logo": "images/teamlogos/31 - Pittsburgh Steelers.png",
+        "name": "Steelers",
+        "teamHelmets": "helmets/by_team/PittsburghSteelers",
+        "abbreviation": "PIT",
+        "primaryColour": "#101820",
+        "secondaryColour": "#FFB612"
+    },
+    {
+        "id": "3",
+        "city": "San Diego",
+        "logo": "images/teamlogos/_0000_san_diego_chargers.png",
+        "name": "Chargers",
+        "teamHelmets": "helmets/by_team/SanDiegoChargers",
+        "abbreviation": "SD",
+        "primaryColour": "",
+        "secondaryColour": ""
+    },
+    {
+        "id": "24",
+        "city": "San Francisco",
+        "logo": "images/teamlogos/29 - San Francisco 49ers.png",
+        "name": "49ers",
+        "teamHelmets": "helmets/by_team/SanFrancisco49ers",
+        "abbreviation": "SF",
+        "primaryColour": "#AA0000",
+        "secondaryColour": "#B3995D"
+    },
+    {
+        "id": "2",
+        "city": "Seattle",
+        "logo": "images/teamlogos/28 - Seattle Seahawks.png",
+        "name": "Seahawks",
+        "teamHelmets": "helmets/by_team/SeattleSeahawks",
+        "abbreviation": "SEA",
+        "primaryColour": "#002244",
+        "secondaryColour": "#69BE28"
+    },
+    {
+        "id": "20",
+        "city": "St. Louis",
+        "logo": "images/teamlogos/_0002_st_louis_cardinals.png",
+        "name": "Cardinals",
+        "teamHelmets": "helmets/by_team/StLouisCardinals",
+        "abbreviation": "STL",
+        "primaryColour": "",
+        "secondaryColour": ""
+    },
+    {
+        "id": "38",
+        "city": "St. Louis",
+        "logo": "images/teamlogos/_0001_st_louis_rams.png",
+        "name": "Rams",
+        "teamHelmets": "helmets/by_team/StLouisRams",
+        "abbreviation": "STL",
+        "primaryColour": "",
+        "secondaryColour": ""
+    },
+    {
+        "id": "32",
+        "city": "Tampa Bay",
+        "logo": "images/teamlogos/27 - Tampa Bay Buccaneers.png",
+        "name": "Buccaneers",
+        "teamHelmets": "helmets/by_team/TampaBayBuccaneers",
+        "abbreviation": "TB",
+        "primaryColour": "#D50A0A",
+        "secondaryColour": "#0A0A08"
+    },
+    {
+        "id": "41",
+        "city": "Tennessee",
+        "logo": "images/teamlogos/26 - Tennessee Titans.png",
+        "name": "Titans",
+        "teamHelmets": "helmets/by_team/TennesseeTitans",
+        "abbreviation": "TEN",
+        "primaryColour": "#0C2340",
+        "secondaryColour": "#4B92DB"
+    },
+    {
+        "id": "21",
+        "city": "Washington",
+        "logo": "images/teamlogos/25 - Washington Redskins.png",
+        "name": "Redskins",
+        "teamHelmets": "helmets/by_team/WashingtonRedskins",
+        "abbreviation": "WAS",
+        "primaryColour": "#773141",
+        "secondaryColour": "#FFB612"
+    }
+]
