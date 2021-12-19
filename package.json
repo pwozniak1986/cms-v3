@@ -1,8 +1,8 @@
 {
-  "name": "zustart",
+  "name": "cms-v3",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://pwozniak1986.github.io/zustart",
+  "homepage": "https://pwozniak1986.github.io/cms-v3",
   "dependencies": {
     "@emotion/react": "^11.6.0",
     "@emotion/styled": "^11.6.0",
