@@ -5,7 +5,7 @@ import useAuthStore from 'store/auth'
 const API_URL = 'https://central.ucms.site/api'
 const fetchFunc = process.env.NODE_ENV === 'development' 
     ? fakeFetch 
-    : fetch
+    : fakeFetch //fetch
 
 
 export async function fetchSections() {
